@@ -1,4 +1,4 @@
-// adding a comment
+// adding a comment.
 
 import java.awt.Color;
 import java.awt.EventQueue;
